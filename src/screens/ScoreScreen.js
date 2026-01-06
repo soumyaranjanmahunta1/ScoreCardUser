@@ -755,7 +755,7 @@ const styles = StyleSheet.create({
     fontSize: 13,
   },
   watchLiveCard: {
-    width: '92%',
+    width: '100%',
     backgroundColor: '#162447',
     borderRadius: 24,
     padding: 18,
